@@ -3,5 +3,6 @@
 
 (![image](https://i.pinimg.com/564x/4f/5f/81/4f5f812ff1b6c08aca07833afd194130.jpg)
 
-Discography
-(<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX2pmk7QemwOu?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
+## Discography
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX2pmk7QemwOu?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
