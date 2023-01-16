@@ -8,3 +8,23 @@
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX2pmk7QemwOu?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vyEGqtQ6MEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Reasons to stan TXT: 
+1. Their discography>>
+2. They're the 4th gen leaders
+3. Their individual personalities compliment each other's personality.
+
+## (Comeback) The Name Chapter: TEMPTATION
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AT8HsnsfPxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Dates to remember for the The Name Chapter: TEMPTATION
+
+| Date| Event |
+| ----------- | ----------- |
+|1/20 00:00 kst| Tracklist and Track Poster |
+|1/23 00:00 kst| Album Preview|
+|1/25 00:00 kst| Official MV Teaser 1 |
+|1/26 00:00 kst| Official MV Teaser 2 |
+|1/27 14:00 kst| Official MV release |
+|1/28 19:00 kst| Comeback Showcase |
